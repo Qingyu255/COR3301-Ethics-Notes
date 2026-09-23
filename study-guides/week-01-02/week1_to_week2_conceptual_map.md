@@ -66,7 +66,7 @@ identify the act
 → conclude
 ```
 
-Utilitarianism is the first full theory used to practise that procedure. It evaluates actions through their consequences for everyone. [W1, slides 44–76](<../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
+Utilitarianism is the first full theory used to practise that procedure. It evaluates actions through their consequences for everyone. [W1, slides 44–76](<../../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
 
 ### Week 2 keeps the procedure but changes the central moral question
 
@@ -96,7 +96,7 @@ Kant foregrounds:
 - universal moral law;
 - respect for each person as an end.
 
-Kant can therefore reject an act even when it maximizes welfare. [W2, slides 3–15](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+Kant can therefore reject an act even when it maximizes welfare. [W2, slides 3–15](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 ### Utilitarianism → Egoism
 
@@ -108,7 +108,7 @@ Egoism asks:
 
 > What rationally advances the actor's own interests?
 
-This is a deliberate contrast, not necessarily an improvement. It demonstrates how radically the conclusion can change when the moral focus shifts from **everyone** to **the actor**. [W2, slides 16–28](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+This is a deliberate contrast, not necessarily an improvement. It demonstrates how radically the conclusion can change when the moral focus shifts from **everyone** to **the actor**. [W2, slides 16–28](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 ### Individual act → Aristotle
 
@@ -119,7 +119,7 @@ Act utilitarianism evaluates the consequences of a particular act. Aristotle shi
 - whether it represented deficiency, virtue, or excess;
 - what kind of person the actor is becoming.
 
-The central question changes from “Did this act maximize welfare?” to “Was this how a virtuous person would act in these circumstances?” [W2, slides 29–54](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+The central question changes from “Did this act maximize welfare?” to “Was this how a virtuous person would act in these circumstances?” [W2, slides 29–54](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 ### Abstract individuals → Confucian relationships
 
@@ -129,7 +129,7 @@ The question becomes:
 
 > Did each person fulfil the duties associated with the relevant relationship?
 
-[W2, slides 55–68](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+[W2, slides 55–68](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 ## Best overall mental model
 

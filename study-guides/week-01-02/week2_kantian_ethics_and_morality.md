@@ -6,7 +6,7 @@ For a shorter explanation focused specifically on Week 2 slide 4, see [Kant on M
 
 **Kantian ethics is a theory explaining what morality is, where moral duties come from, and how to decide whether an action is morally right.**
 
-In the course's presentation of Kant, morality is not determined by whether an action produces a desirable result. It is grounded in a rational moral law that applies to everyone. A morally right action must be done with a good intention, be based on a universalizable principle, and respect persons as ends in themselves. [W2, slides 3–13](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+In the course's presentation of Kant, morality is not determined by whether an action produces a desirable result. It is grounded in a rational moral law that applies to everyone. A morally right action must be done with a good intention, be based on a universalizable principle, and respect persons as ends in themselves. [W2, slides 3–13](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 ```text
 Morality under Kant =
@@ -78,7 +78,7 @@ Reason allows a person to step back from immediate desire and ask:
 
 This is why Kantian morality is supposed to be universal rather than a matter of individual taste.
 
-However, rationality and morality are not identical. The slides state that moral actions are rational, but it does not follow that every rational or strategically effective action is moral. A carefully planned fraud may be instrumentally rational while still failing the moral tests. The lecturer identified this distinction as important. [W2, slides 14–15](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+However, rationality and morality are not identical. The slides state that moral actions are rational, but it does not follow that every rational or strategically effective action is moral. A carefully planned fraud may be instrumentally rational while still failing the moral tests. The lecturer identified this distinction as important. [W2, slides 14–15](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 ## 6. The categorical imperatives turn moral law into tests
 
@@ -90,7 +90,7 @@ Example maxim:
 
 > A company may conceal known safety risks whenever disclosure would reduce its profits.
 
-If this maxim became universal, trustworthy safety disclosure would be undermined. Companies would still depend on customers trusting their statements while adopting a principle that destroys the basis of that trust. The maxim is therefore difficult to universalize. [W2, slides 8–11](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+If this maxim became universal, trustworthy safety disclosure would be undermined. Companies would still depend on customers trusting their statements while adopting a principle that destroys the basis of that trust. The maxim is therefore difficult to universalize. [W2, slides 8–11](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 ### Test 2: Respect for persons
 
@@ -98,7 +98,7 @@ People must be treated as ends in themselves and never **merely** as means. Rati
 
 Using another person's assistance is not automatically immoral. Employing an engineer uses their skills as a means, but informed agreement, fair treatment, and freedom to refuse can also respect that person as an end.
 
-Deception and coercion are especially problematic because they interfere with autonomous choice. A company that conceals a serious risk may use customers merely as a source of profit because customers cannot decide whether to accept the risk knowingly. [W2, slides 8 and 12–13](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+Deception and coercion are especially problematic because they interfere with autonomous choice. A company that conceals a serious risk may use customers merely as a source of profit because customers cannot decide whether to accept the risk knowingly. [W2, slides 8 and 12–13](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 ## 7. Good intention connects motivation to morality
 
@@ -167,7 +167,7 @@ A product manager hides a known security flaw so that users will adopt an applic
 
 Kantian ethics protects individuals against being sacrificed merely because doing so would increase total welfare. A person is not simply a negative number that can be outweighed by benefits to a larger group.
 
-However, strict duties can conflict. A duty to tell the truth might appear to conflict with a duty to prevent serious harm. Because Kant makes consequences non-decisive, the theory may offer limited flexibility in emergencies. The slides identify conflicts between perfect duties and the demanding role of rationality as criticisms. [W2, slides 14–15](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+However, strict duties can conflict. A duty to tell the truth might appear to conflict with a duty to prevent serious harm. Because Kant makes consequences non-decisive, the theory may offer limited flexibility in emergencies. The slides identify conflicts between perfect duties and the demanding role of rationality as criticisms. [W2, slides 14–15](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 ## Exam-ready formulation
 

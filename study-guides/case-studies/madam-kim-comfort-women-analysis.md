@@ -21,7 +21,7 @@ This prevents the actions of particular soldiers, wartime officials, modern offi
 
 ## 1. Utilitarianism: overwhelming suffering
 
-Utilitarianism asks whether the act produced the greatest balance of pleasure over pain for everyone. [W1, slides 47–54 and 58–62](<week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
+Utilitarianism asks whether the act produced the greatest balance of pleasure over pain for everyone. [W1, slides 47–54 and 58–62](<../../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
 
 The relevant stakeholders include:
 
@@ -52,7 +52,7 @@ Consider the rule:
 
 > Military forces may abduct and sexually exploit civilians whenever doing so benefits military operations.
 
-The general acceptance of that rule would produce widespread fear, violence, insecurity, and suffering. A rule prohibiting sexual exploitation and protecting civilians would produce far greater welfare. The conduct was therefore also unethical under rule utilitarianism. [W1, slides 63–74](<week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
+The general acceptance of that rule would produce widespread fear, violence, insecurity, and suffering. A rule prohibiting sexual exploitation and protecting civilians would produce far greater welfare. The conduct was therefore also unethical under rule utilitarianism. [W1, slides 63–74](<../../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
 
 ---
 
@@ -66,7 +66,7 @@ AND universalizable maxim
 AND respect for persons
 ```
 
-[W2, slides 3–13](<week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+[W2, slides 3–13](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 ### Good intention
 
@@ -92,7 +92,7 @@ She was treated **merely as a means** to satisfy soldiers and serve military pur
 
 ## 3. Ethical egoism: the strands expose different answers
 
-Ethical egoism demonstrates why ethical theories can sometimes produce disturbing disagreements. [W2, slides 16–28](<week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+Ethical egoism demonstrates why ethical theories can sometimes produce disturbing disagreements. [W2, slides 16–28](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 ### Machiavelli
 
@@ -124,7 +124,7 @@ It is therefore strongly arguable that the conduct was unethical under Rand as p
 
 ## 4. Aristotle: injustice, cruelty, and lack of moderation
 
-Aristotle asks whether a voluntary act expresses virtue in the appropriate measure. [W2, slides 29–54](<week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+Aristotle asks whether a voluntary act expresses virtue in the appropriate measure. [W2, slides 29–54](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 Participation in the system displays:
 
@@ -140,7 +140,7 @@ Government officials who deliberately designed or maintained the system would ha
 
 ## 5. Confucianism: abuse of unequal relationships
 
-Confucianism emphasizes reciprocal duties within social relationships. A superior possesses authority, but authority brings responsibilities toward those in a subordinate or vulnerable position. [W2, slides 55–68](<week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+Confucianism emphasizes reciprocal duties within social relationships. A superior possesses authority, but authority brings responsibilities toward those in a subordinate or vulnerable position. [W2, slides 55–68](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 The military possessed overwhelming power over captives. Instead of exercising authority humanely, it allegedly used that power to exploit them. This violated reciprocity, humane leadership, and the responsibility of powerful institutions to contribute to public good rather than merely pursue their own objectives.
 

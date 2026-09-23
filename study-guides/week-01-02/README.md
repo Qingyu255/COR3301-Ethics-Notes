@@ -34,7 +34,7 @@ The notes use this order of authority:
 
 Because the transcripts were generated from automatic captions, unclear transcript wording should not override an unambiguous slide.
 
-Primary materials: [Week 1 slides](<../week1/Ethics - Lecture Slides - Lecture One (1).pdf>) · [Week 1 transcript](<../week1/ethics_week1_transcript.txt>) · [Week 2 slides](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>) · [Week 2 transcript](<../week2/ethics_week2_transcript.txt>)
+Primary materials: [Week 1 slides](<../../week1/Ethics - Lecture Slides - Lecture One (1).pdf>) · [Week 1 transcript](<../../week1/ethics_week1_transcript.txt>) · [Week 2 slides](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>) · [Week 2 transcript](<../../week2/ethics_week2_transcript.txt>)
 
 ## Exam-use principle
 

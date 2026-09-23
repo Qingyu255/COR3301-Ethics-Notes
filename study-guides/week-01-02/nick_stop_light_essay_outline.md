@@ -70,7 +70,7 @@ This demonstrates the defining feature of act utilitarianism: outwardly similar 
 
 > Act utilitarianism provides that an act is right if and only if it produces the greatest balance of pleasure over pain for everyone.
 
-If the prompt asks you to explain the theory, briefly define consequentialism, hedonism, maximalism, and universalism. In a timed application answer, the exact doctrine and clear use of its elements are the priority; the four labels need not be mechanically defined when they add no analysis. [W1, slides 47–54](<../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
+If the prompt asks you to explain the theory, briefly define consequentialism, hedonism, maximalism, and universalism. In a timed application answer, the exact doctrine and clear use of its elements are the priority; the four labels need not be mechanically defined when they add no analysis. [W1, slides 47–54](<../../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
 
 ### 3. Facts and alternatives
 
@@ -98,7 +98,7 @@ Present the strongest reasonable argument against the provisional conclusion.
 
 > This conclusion is qualified by utilitarianism's difficulty in ____. In this case, that problem matters because ____.
 
-Possible limitations include identifying everyone affected, calculating utility, valuing consequences, subjectivity, and interpersonal comparisons of pleasure and pain. [W1, slide 75](<../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
+Possible limitations include identifying everyone affected, calculating utility, valuing consequences, subjectivity, and interpersonal comparisons of pleasure and pain. [W1, slide 75](<../../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
 
 ### 8. Conclusion
 

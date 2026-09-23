@@ -38,7 +38,7 @@ AND universalizable maxim
 AND respect for persons
 ```
 
-[W2, slides 3–13](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+[W2, slides 3–13](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 ## 2. “Moral law”
 

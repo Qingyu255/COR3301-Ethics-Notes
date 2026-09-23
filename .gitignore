@@ -1,0 +1,5 @@
+.idea/
+.DS_Store
+
+# The quiz app is an independent nested Git repository.
+/study-tools/

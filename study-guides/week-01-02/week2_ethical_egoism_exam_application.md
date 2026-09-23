@@ -6,7 +6,7 @@ Ethical egoism is **normative**:
 
 > Individuals **ought** to act in self-interested ways.
 
-This is different from the descriptive claim that people often behave selfishly. A description of how people behave does not prove how they ought to behave. [W2, slides 16–18](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+This is different from the descriptive claim that people often behave selfishly. A description of how people behave does not prove how they ought to behave. [W2, slides 16–18](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 The three strands do not use one identical definition of self-interest:
 
@@ -16,7 +16,7 @@ The three strands do not use one identical definition of self-interest:
 | **Hobbes** | Cooperation advances the actor's self-interest. |
 | **Ayn Rand** | The act rationally advances the actor's long-term self-interest through uncoerced personal choice. |
 
-[W2, slides 18–28](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+[W2, slides 18–28](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 The basic exam method is:
 

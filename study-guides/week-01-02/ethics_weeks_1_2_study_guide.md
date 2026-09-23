@@ -8,7 +8,7 @@ For the shorter topic-specific notes and a recommended study order, see the [nav
 
 > **Transcript-confirmed exam signal:** Callouts with this label record something the lecturer expressly described as important, exam-relevant, worth highlighting, or capable of earning additional credit. Timestamps refer to the supplied transcripts. Because the transcripts contain automatic-caption errors, the slides remain authoritative for doctrine wording and names.
 
-Transcript sources: [Week 1 transcript](<../week1/ethics_week1_transcript.txt>) · [Week 2 transcript](<../week2/ethics_week2_transcript.txt>)
+Transcript sources: [Week 1 transcript](<../../week1/ethics_week1_transcript.txt>) · [Week 2 transcript](<../../week2/ethics_week2_transcript.txt>)
 
 ## 1. The map: what question does each theory ask?
 
@@ -22,7 +22,7 @@ Each ethical theory asks a different question about the same event and foregroun
 | Aristotelian virtue ethics | Does the act express a cultivated virtue in the appropriate measure? | Character and flourishing |
 | Confucianism | Does the act fulfil reciprocal duties within the relevant relationships? | Relationships and social roles |
 
-The course is designed not only to teach these theories but to make you identify ethical dilemmas and apply theories to decisions. The assessments therefore test application rather than memorization. [W1, slides 7–8 and 18–21](<../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
+The course is designed not only to teach these theories but to make you identify ethical dilemmas and apply theories to decisions. The assessments therefore test application rather than memorization. [W1, slides 7–8 and 18–21](<../../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
 
 ---
 
@@ -38,7 +38,7 @@ Example:
 - Normative: “The team ought to delay deployment.”
 - Hidden value premise: “Avoiding serious, involuntary harm is more important than meeting this release date.”
 
-The slides reject the idea that ethics is merely a collection of opinions or a person's preferences. The examples of stealing bread, cheating, and littering show why “my conscience says so” is not yet a reasoned analysis. [W1, slides 40–43](<../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
+The slides reject the idea that ethics is merely a collection of opinions or a person's preferences. The examples of stealing bread, cheating, and littering show why “my conscience says so” is not yet a reasoned analysis. [W1, slides 40–43](<../../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
 
 ### A reusable analysis stack
 
@@ -80,7 +80,7 @@ Utilitarianism is a **teleological** theory: an act's rightness is determined by
 
 > An action is right if and only if it produces the greatest balance of pleasure over pain for everyone.
 
-[W1, slides 44–49](<../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
+[W1, slides 44–49](<../../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
 
 The attraction of the theory is its impartial concern for overall welfare. Its difficulty is that pleasure, pain, dignity, grief, and risk do not come with a reliable common unit, and people may disagree about which consequences should be included.
 
@@ -95,7 +95,7 @@ All four are part of the same doctrine:
 | **Maximalism** | Choose the option with the greatest net pleasure, not merely some positive result. | Is this the best balance among the alternatives? |
 | **Universalism** | Count everyone's pleasure and pain; the actor's interests have no extra weight. | Have all affected parties been considered impartially? |
 
-[W1, slides 48–54 and summary diagram on slide 76](<../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
+[W1, slides 48–54 and summary diagram on slide 76](<../../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
 
 Notice two common mistakes:
 
@@ -106,7 +106,7 @@ Maximalism requires comparison with **feasible** alternatives, not every imagina
 
 In a timed application answer, the exact doctrine and complete analysis matter more than mechanically defining all four labels. Name and explain consequentialism, hedonism, maximalism, and universalism when the prompt asks for theory explanation or when a distinction does real work in the case.
 
-The slides introduce cost-benefit analysis and shadow pricing as attempts to quantify utility. Money makes unlike options comparable, but this is a measurement choice, not proof that every human value has a monetary equivalent. [W1, slide 53](<../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
+The slides introduce cost-benefit analysis and shadow pricing as attempts to quantify utility. Money makes unlike options comparable, but this is a measurement choice, not proof that every human value has a monetary equivalent. [W1, slide 53](<../../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
 
 ### Understanding check 2
 
@@ -123,7 +123,7 @@ A hospital chooses treatment A because it helps 70 patients. Treatment B would h
 
 ## 4. Act utilitarianism: evaluate this particular act
 
-Act utilitarianism asks whether the specific act, in its actual or reasonably anticipated circumstances, produces the greatest balance of pleasure over pain for everyone. [W1, slides 55–62](<../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
+Act utilitarianism asks whether the specific act, in its actual or reasonably anticipated circumstances, produces the greatest balance of pleasure over pain for everyone. [W1, slides 55–62](<../../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
 
 > **Transcript-confirmed exam signal:** Reproduce the doctrine, then show the steps explicitly: identify the act, identify “everyone,” set out pleasurable and painful consequences, and state which side outweighs the other. “Everyone” was singled out as important. Do not decide the balance merely by counting the number of consequences; their nature and intensity matter. (Week 1 transcript, 00:06:31–00:07:52, 00:26:58–00:27:20, and 00:37:18–00:38:55.)
 
@@ -139,7 +139,7 @@ Act utilitarianism asks whether the specific act, in its actual or reasonably an
 
 ### Worked example: Nick ran a stop light
 
-The sentence alone is under-specified. If Nick is a police officer responding to a murder, the benefit of arriving sooner might outweigh the traffic risk. If Nick is drunk and strikes a pedestrian, pain overwhelmingly dominates. Act utilitarianism can therefore return different judgments for outwardly similar acts because their consequences differ. [W1, slides 57–62](<../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
+The sentence alone is under-specified. If Nick is a police officer responding to a murder, the benefit of arriving sooner might outweigh the traffic risk. If Nick is drunk and strikes a pedestrian, pain overwhelmingly dominates. Act utilitarianism can therefore return different judgments for outwardly similar acts because their consequences differ. [W1, slides 57–62](<../../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
 
 Do not invent a collision just to make the answer easy. You may say, “Assuming other road users were present, Nick created a risk of injury,” because risk follows plausibly from the act; distinguish that from asserting that someone was actually injured.
 
@@ -158,7 +158,7 @@ Possible groups include workers exposed to risk, customers, the company, and peo
 
 ## 5. Rule utilitarianism: evaluate the generally accepted rule
 
-Rule utilitarianism asks whether the act conforms to a rule whose **general acceptance** would produce the greatest balance of pleasure over pain for everyone. Neither act nor rule utilitarianism is inherently “better”; use the version most relevant to the facts. [W1, slides 55–56 and 63–74](<../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
+Rule utilitarianism asks whether the act conforms to a rule whose **general acceptance** would produce the greatest balance of pleasure over pain for everyone. Neither act nor rule utilitarianism is inherently “better”; use the version most relevant to the facts. [W1, slides 55–56 and 63–74](<../../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
 
 > **Transcript-confirmed exam signal:** The lecturer expressly called it important that neither version is better or more impressive merely because rule utilitarianism looks harder. Under rule utilitarianism, test candidate rules, select the rule whose general acceptance maximizes utility, and then apply that rule to the act. A sensible rule is not marked down for being “boring” or resembling existing law. (Week 1 transcript, 00:05:26–00:05:41, 00:28:11–00:32:59, and 00:42:26–00:42:47.)
 
@@ -172,7 +172,7 @@ Rule utilitarianism asks whether the act conforms to a rule whose **general acce
 5. Ask whether the act conforms to that rule.
 ```
 
-For Nick, “All vehicles may run stop lights” likely produces chaos and injury if generally accepted. “Vehicles must not run stop lights” is much more likely to maximize welfare. Since Nick's act violates the selected rule, rule utilitarianism judges it unethical. [W1, slides 65–74](<../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
+For Nick, “All vehicles may run stop lights” likely produces chaos and injury if generally accepted. “Vehicles must not run stop lights” is much more likely to maximize welfare. Since Nick's act violates the selected rule, rule utilitarianism judges it unethical. [W1, slides 65–74](<../../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
 
 A rule may contain a morally relevant exception. For example, “Vehicles must not run stop lights except during a genuine emergency and with reasonable precautions” can be tested against both an absolute prohibition and a permissive rule. The exception must be general enough to apply to comparable cases; it cannot be written around Nick merely to guarantee a preferred answer.
 
@@ -211,7 +211,7 @@ The slides raise five connected problems:
 - Are pleasure and pain subjective?
 - Can their intensity across different persons be compared?
 
-[W1, slide 75](<../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
+[W1, slide 75](<../../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
 
 The deepest measurement problem is not merely insufficient data. Interpersonal comparison may lack a common scale: one person's minor convenience and another's severe grief are not obviously commensurable. A further implication—not a separate criticism expressly listed on slide 75—is that aggregation can obscure distribution. The same total utility could be achieved by moderate benefits to many people or huge benefits to a majority paired with devastating harm to a minority.
 
@@ -238,7 +238,7 @@ Kantian ethics shifts attention away from outcomes. Moral obligations apply rega
 
 > An action is right if it is done with good intentions and satisfies both categorical imperatives: universalisability and respect for persons.
 
-[W2, slides 3–8](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+[W2, slides 3–8](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 Treat these as three cumulative requirements:
 
@@ -260,7 +260,7 @@ Example: a company donates to charity solely to manipulate customers. The donati
 
 ### 7.2 Universalizability
 
-A **maxim** is the rule implicit in the action. Ask whether you could rationally will everyone in relevantly similar circumstances to follow it. This counters special pleading and double standards: “I may lie when convenient, but others must tell me the truth.” [W2, slides 8–11](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+A **maxim** is the rule implicit in the action. Ask whether you could rationally will everyone in relevantly similar circumstances to follow it. This counters special pleading and double standards: “I may lie when convenient, but others must tell me the truth.” [W2, slides 8–11](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 Test:
 
@@ -272,13 +272,13 @@ If everyone may make false promises whenever useful, trust in promising collapse
 
 ### 7.3 Respect for persons
 
-Treat humanity, in yourself and others, always as an end and never **merely** as a means. People possess inherent dignity and a capacity to choose freely; do not reduce them to resources, statistics, or tools. [W2, slides 8 and 12–13](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+Treat humanity, in yourself and others, always as an end and never **merely** as a means. People possess inherent dignity and a capacity to choose freely; do not reduce them to resources, statistics, or tools. [W2, slides 8 and 12–13](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 Using someone's service is not automatically wrong. Hiring an engineer uses their skill as a means, but fair pay, informed consent, and freedom to refuse also recognize them as an end. Deception, coercion, or concealing material risk commonly prevents meaningful choice and treats the person merely as an instrument.
 
 ### Kant's strengths and limits
 
-Kant protects individuals against being sacrificed merely because doing so raises aggregate welfare. But the slides identify problems: the demanding role of rationality and conflicts between perfect duties, such as honesty versus avoiding harm. Also remember: not all rational actions are moral, although the slides state that all moral actions are rational. [W2, slides 14–15](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+Kant protects individuals against being sacrificed merely because doing so raises aggregate welfare. But the slides identify problems: the demanding role of rationality and conflicts between perfect duties, such as honesty versus avoiding harm. Also remember: not all rational actions are moral, although the slides state that all moral actions are rational. [W2, slides 14–15](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 > **Transcript-confirmed exam signal:** “Rational” and “moral” must not be used interchangeably; the lecturer identified this as feedback from a previous exam. (Week 2 transcript, 00:28:12–00:28:40.)
 
@@ -301,7 +301,7 @@ The lack of a breach does not rescue the act because Kantian ethics does not mak
 
 ## 8. Ethical egoism: three accounts of self-interest
 
-Ethical egoism is **normative**: it says individuals **ought** to act in self-interested ways. “Humans often pursue self-interest” is only a descriptive psychological claim and does not by itself establish what they ought to do. [W2, slides 16–18](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+Ethical egoism is **normative**: it says individuals **ought** to act in self-interested ways. “Humans often pursue self-interest” is only a descriptive psychological claim and does not by itself establish what they ought to do. [W2, slides 16–18](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 The three strands define self-interest differently:
 
@@ -311,13 +311,13 @@ The three strands define self-interest differently:
 | **Hobbes** | Cooperation is right when that cooperation is in the actor's self-interest. | Does enforced or strategic cooperation protect long-term welfare? | Is social collapse really the alternative to self-interest? |
 | **Ayn Rand** | An act is right if it rationally advances one's self-interest. | Is it rational, long-term, voluntary, and chosen without coercion? | Why should universal self-interest reliably yield prosperity under scarcity? |
 
-[W2, slides 18–28](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+[W2, slides 18–28](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 > **Transcript-confirmed exam signal:** Know the distinctions among all three strands and reproduce the applicable doctrine. Choose the most applicable theory, not the theory that appears hardest. Complete the basic analysis before adding real-world commentary or disagreement. (Week 2 transcript, 00:29:05–00:30:33, 00:34:46–00:36:34, and 00:55:32–00:55:38.)
 
 ### Do egoists ever help others?
 
-Yes. Self-interest does not mean acting alone or producing no benefit for others. A Machiavellian may donate to gain influence; a Hobbesian may cooperate to secure order; a Randian may help because doing so is a freely chosen source of happiness. The motive and structure of benefit matter. [W2, slide 27](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+Yes. Self-interest does not mean acting alone or producing no benefit for others. A Machiavellian may donate to gain influence; a Hobbesian may cooperate to secure order; a Randian may help because doing so is a freely chosen source of happiness. The motive and structure of benefit matter. [W2, slide 27](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 For **Rand**, two conjunctive points must be kept together: people should act in self-interest, and self-interest is happiness achieved through uncoerced personal choice. The lecturer also emphasized rationality, preservation of one's life, and long-term well-being. A whim, instinct, coerced act, or obviously self-destructive choice does not automatically qualify merely because the actor calls it self-interested. (Week 2 transcript, 00:43:04–00:43:36 and 00:49:56–00:50:45.)
 
@@ -348,19 +348,19 @@ The fact that employees benefit does not disqualify the act under egoism.
 
 ## 9. Aristotelian virtue ethics: character, habit, and judgment
 
-Virtue ethics asks what kind of person one is becoming. A **virtue** is a character trait manifested in habitual action. Courage, honesty, justice, loyalty, moderation, and compassion are examples. Virtues require practice, are acquired, become habits, and are admired in others. [W2, slides 29–34](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+Virtue ethics asks what kind of person one is becoming. A **virtue** is a character trait manifested in habitual action. Courage, honesty, justice, loyalty, moderation, and compassion are examples. Virtues require practice, are acquired, become habits, and are admired in others. [W2, slides 29–34](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 One correct act does not by itself establish a virtuous character. Aristotle's emphasis is on stable dispositions cultivated through repeated, deliberate action, while the course permits you to focus on whether the particular act in the hypothetical was virtuous.
 
 > **Transcript-confirmed exam signal:** Keep the recognized virtues available in your open-book notes; the lecturer said they need not be memorized but should be referred to in an answer. For exam hypotheticals, assess whether the particular act is virtuous rather than attempting to judge the actor's complete lifetime. (Week 2 transcript, 01:02:11–01:02:30 and 01:05:25–01:06:23.)
 
-Aristotle's focus is human happiness or flourishing across a complete life. Wealth is a means to that end, not the whole of it. For the course's case analyses, however, the lecturer permits focusing on whether the particular action was virtuous. [W2, slides 34–36 and 52–53](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+Aristotle's focus is human happiness or flourishing across a complete life. Wealth is a means to that end, not the whole of it. For the course's case analyses, however, the lecturer permits focusing on whether the particular action was virtuous. [W2, slides 34–36 and 52–53](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 ### Aristotle's definition, decomposed
 
 > Virtue is a “purposive disposition, lying in a mean that is relative to us and determined by a rational principle.”
 
-[W2, slides 37–48](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+[W2, slides 37–48](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 #### A. Purposive disposition: voluntariness is a gate
 
@@ -369,7 +369,7 @@ Before evaluating virtue, ask whether the act was voluntary. The slides treat an
 - it results from ignorance of the circumstances and object of the act, followed by pain and remorse; or
 - it occurs under external compulsion and the agent contributes nothing.
 
-Duress is harder. Choosing a dishonorable act to save one's family may mix external pressure with agency. If the act is involuntary, the actor should not be judged vicious merely because harm occurred. [W2, slides 39–42](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+Duress is harder. Choosing a dishonorable act to save one's family may mix external pressure with agency. If the act is involuntary, the actor should not be judged vicious merely because harm occurred. [W2, slides 39–42](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 > **Transcript-confirmed exam signal:** Start an Aristotelian answer by asking whether the act was voluntary. The lecturer presented this as the exam consequence of “purposive disposition,” not as an optional afterthought. (Week 2 transcript, 01:07:01–01:08:26.)
 
@@ -382,13 +382,13 @@ deficiency        mean appropriate here        excess
 cowardice   ←────────── courage ──────────→   rashness
 ```
 
-The mean is not always the midpoint. A safety engineer may need unusual firmness during an emergency but more patience during routine review. Aristotle advises avoiding extremes, learning from error, and guarding against pleasures that induce vice, but does not give a precise formula. [W2, slides 44–46](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+The mean is not always the midpoint. A safety engineer may need unusual firmness during an emergency but more patience during routine review. Aristotle advises avoiding extremes, learning from error, and guarding against pleasures that induce vice, but does not give a precise formula. [W2, slides 44–46](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 #### C. Relative to us, rationally determined
 
-Context changes what proportionate courage, pride, loyalty, or candor requires. Rational judgment is supposed to temper subjectivity and bias. This flexibility makes virtue ethics potentially useful in business, where judgment is unavoidable, but it also creates uncertainty about whose standard defines the mean. [W2, slides 47–54](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+Context changes what proportionate courage, pride, loyalty, or candor requires. Rational judgment is supposed to temper subjectivity and bias. This flexibility makes virtue ethics potentially useful in business, where judgment is unavoidable, but it also creates uncertainty about whose standard defines the mean. [W2, slides 47–54](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
-The slides also say adultery, theft, and murder are evil in themselves and not eligible for a virtuous “mean,” while later criticism asks whether theft with a virtuous purpose challenges that classification. Treat that tension as an explicit course debate, not something to silently resolve. [W2, slides 49 and 54](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+The slides also say adultery, theft, and murder are evil in themselves and not eligible for a virtuous “mean,” while later criticism asks whether theft with a virtuous purpose challenges that classification. Treat that tension as an explicit course debate, not something to silently resolve. [W2, slides 49 and 54](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 > **Transcript-confirmed exam signal:** The lecturer identified Aristotle's failure to specify the “sweet spot” as an exam-ready criticism. For additional credit, do not merely say the mean is subjective—explain how and why you located the mean where you did in this context. (Week 2 transcript, 01:12:59–01:13:15 and 01:18:14–01:18:29.)
 
@@ -407,7 +407,7 @@ Begin with **voluntariness**: the threat creates duress, but the engineer may st
 
 ## 10. Confucianism: ethics through reciprocal relationships
 
-Confucianism begins from the idea that humans are social creatures. Happiness involves understanding one's proper place and duties to others and cultivating oneself into a “person of excellence.” Community structure therefore brings reciprocal duties and personal compromise. [W2, slides 55–56](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+Confucianism begins from the idea that humans are social creatures. Happiness involves understanding one's proper place and duties to others and cultivating oneself into a “person of excellence.” Community structure therefore brings reciprocal duties and personal compromise. [W2, slides 55–56](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 ### Five central relationships
 
@@ -417,7 +417,7 @@ Confucianism begins from the idea that humans are social creatures. Happiness in
 4. Ruler–subject / master–servant
 5. Elder–younger friend
 
-These are hierarchical and recognize natural inequality, but duties exist on both sides. **Reciprocity does not mean equality.** [W2, slide 57 and slide 61](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+These are hierarchical and recognize natural inequality, but duties exist on both sides. **Reciprocity does not mean equality.** [W2, slide 57 and slide 61](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 > **Transcript-confirmed exam signal:** Reciprocity and the five relationships were expressly called very important. The lecturer said the parent–child relationship is paramount and stressed that hierarchical relationships impose duties on both sides. (Week 2 transcript, 01:20:22–01:23:44.)
 
@@ -425,25 +425,25 @@ These are hierarchical and recognize natural inequality, but duties exist on bot
 
 > Do not do unto others what you do not want others to do unto you.
 
-The rule asks a superior not to reproduce mistreatment toward inferiors and an inferior not to reproduce it toward superiors. It is reciprocal restraint, not a command that every role become identical. [W2, slides 58–59](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+The rule asks a superior not to reproduce mistreatment toward inferiors and an inferior not to reproduce it toward superiors. It is reciprocal restraint, not a command that every role become identical. [W2, slides 58–59](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 ### Kinship-based subjectivity
 
-The sheep example is deliberately uncomfortable: Confucius describes uprightness as a father concealing a son's misconduct and a son concealing a father's. Familial obligations can therefore qualify more general reciprocity and create “kinship-based subjectivity.” [W2, slides 60–61](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+The sheep example is deliberately uncomfortable: Confucius describes uprightness as a father concealing a son's misconduct and a son concealing a father's. Familial obligations can therefore qualify more general reciprocity and create “kinship-based subjectivity.” [W2, slides 60–61](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 This contrasts sharply with Kantian universalizability. Kant resists special exceptions for relatives; the Confucian account presented here gives family relationships special moral weight.
 
 ### Business application
 
-Confucianism does not condemn business, but profit accumulation cannot be its sole aim. Business should cultivate virtue, humanity, self-development, and public good. The slides illustrate quasi-family company relations in Japan and reciprocal favours in China, while also asking whether exclusion from decisions or favour obligations are ethical. [W2, slides 62–66](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+Confucianism does not condemn business, but profit accumulation cannot be its sole aim. Business should cultivate virtue, humanity, self-development, and public good. The slides illustrate quasi-family company relations in Japan and reciprocal favours in China, while also asking whether exclusion from decisions or favour obligations are ethical. [W2, slides 62–66](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
-When applying Confucianism to employer–employee relations, explicitly state that you are **analogizing** them to ruler–subject or master–servant relations and justify the analogy. Confucius did not list the modern employment relationship, and the analogy has limits. [W2, slide 57](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+When applying Confucianism to employer–employee relations, explicitly state that you are **analogizing** them to ruler–subject or master–servant relations and justify the analogy. Confucius did not list the modern employment relationship, and the analogy has limits. [W2, slide 57](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 > **Transcript-confirmed likely exam topic:** The lecturer said employer–employee relationships would “probably come out.” Because employment is not one of the five listed relationships, write expressly: “The employer–employee relationship is analogous to the master–servant relationship,” then explain the similarity and the analogy's limits. Do not attribute a modern employment doctrine directly to Confucius. (Week 2 transcript, 01:23:44–01:24:56.)
 
 ### Rights criticism
 
-The slides characterize Confucian ethics as communitarian and lacking a doctrine of individual rights. A person may say that another failed a duty, but not necessarily claim a personal right was violated. This may preserve social harmony, yet it risks providing insufficient protection or dignity to individuals harmed by powerful people or institutions. [W2, slides 67–68](<../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
+The slides characterize Confucian ethics as communitarian and lacking a doctrine of individual rights. A person may say that another failed a duty, but not necessarily claim a personal right was violated. This may preserve social harmony, yet it risks providing insufficient protection or dignity to individuals harmed by powerful people or institutions. [W2, slides 67–68](<../../week2/Ethics - Lecture Slides - Lecture Two (1).pdf>)
 
 For exam selection, Confucianism is easiest to spot when the facts contain a listed relationship, an employer–employee analogy, reciprocal favours, hierarchy, or a conflict between family loyalty and wider duties. High-value criticisms include weak protection of individual rights and the possibility that concealing family misconduct is treated as virtuous. (Week 2 transcript, 01:26:15–01:27:50 and 01:40:09–01:40:51.)
 
@@ -491,7 +491,7 @@ Which theory gives the most direct objection to sacrificing the minority group f
 
 # 12. How to score highly in the exams
 
-This section converts the Week 1 assessment instructions and the lecturer's comments into an exam method. It is **not an official mark allocation**: the Weeks 1–2 materials do not provide one. The stated task is to identify ethical issues, analyze selected issues using at least two compelling and relevant theories, reach conclusions, and make practical recommendations. The examination is open-book but tests application rather than memorization. [W1, slides 18–21](<../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
+This section converts the Week 1 assessment instructions and the lecturer's comments into an exam method. It is **not an official mark allocation**: the Weeks 1–2 materials do not provide one. The stated task is to identify ethical issues, analyze selected issues using at least two compelling and relevant theories, reach conclusions, and make practical recommendations. The examination is open-book but tests application rather than memorization. [W1, slides 18–21](<../../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
 
 ## 12.1 Think in two scoring layers
 
@@ -643,7 +643,7 @@ Do not bring a long set of notes that you have never navigated. Build a compact 
 - one serious limitation and one worked mini-example;
 - tabs or a contents page for rapid retrieval.
 
-The Week 1 slides explicitly recommend making your own notes so that you know their structure before the open-book examination. [W1, slides 35–39](<../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
+The Week 1 slides explicitly recommend making your own notes so that you know their structure before the open-book examination. [W1, slides 35–39](<../../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
 
 ## 12.9 Final five-minute scoring audit
 
@@ -682,7 +682,7 @@ The lecturer also said the supplied slides are sufficient for the course's purpo
 
 # 13. Exam-ready application template
 
-The hypothetical assessment format asks you to identify issues, apply at least two compelling theories to each selected issue, give balanced analysis, conclude, and recommend improvements. [W1, slides 19–21](<../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
+The hypothetical assessment format asks you to identify issues, apply at least two compelling theories to each selected issue, give balanced analysis, conclude, and recommend improvements. [W1, slides 19–21](<../../week1/Ethics - Lecture Slides - Lecture One (1).pdf>)
 
 Use this paragraph structure:
 
